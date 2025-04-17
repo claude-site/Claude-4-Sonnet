@@ -1,6 +1,6 @@
 # Claude 国内保姆级使用教程（支持 Claude 3.7 Sonnet，无需翻墙）【4月持续更新】
 
-> **更新时间：2025/04/17**              
+> **更新时间：2025/04/18**              
 
 **全面体验 [Claude 中文版](https://chat.yixiaai.com/)，无需翻墙，支持 Claude 3.7 Sonnet 和多功能应用！**  
 本项目旨在为用户提供一站式的 **[Claude 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://chat.yixiaai.com/)** 和 **官网使用教程**，帮助您快速上手 Claude~
