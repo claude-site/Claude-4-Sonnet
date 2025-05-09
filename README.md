@@ -1,11 +1,11 @@
 # Claude 国内保姆级使用教程（支持 Claude 3.7 Sonnet，无需翻墙）【5月持续更新】
 
-> **更新时间：2025/05/08**         
+> **更新时间：2025/05/10**         
 
-**全面体验 [Claude 中文版](https://chat.yixiaai.com/)，无需翻墙，支持 Claude 3.7 Sonnet 和多功能应用！**  
-本项目旨在为用户提供一站式的 **[Claude 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://chat.yixiaai.com/)** 和 **官网使用教程**，帮助您快速上手 Claude~
+**全面体验 [Claude 中文版](https://chat.lanjing.pro/)，无需翻墙，支持 Claude 3.7 Sonnet 和多功能应用！**  
+本项目旨在为用户提供一站式的 **[Claude 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://chat.xsimple.top/)** 和 **官网使用教程**，帮助您快速上手 Claude~
 
-**Claude 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
+**Claude 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**   
 **Claude 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
@@ -22,7 +22,7 @@
 
 ## 什么是 Claude 中文版？
 
-[**Claude 中文版**](https://chat.yixiaai.com) 是由 Anthropic 开发的 Claude 3.7 Sonnet 模型的中文优化版本，专为中文用户提供更流畅、更精准的 AI对话体验。  
+[**Claude 中文版**](https://chat.lanjing.pro) 是由 Anthropic 开发的 Claude 3.7 Sonnet 模型的中文优化版本，专为中文用户提供更流畅、更精准的 AI对话体验。  
 与官方 Claude 相比，中文版在以下方面更适合国内用户：
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
