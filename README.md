@@ -1,11 +1,11 @@
 # Claude 国内保姆级使用教程（支持 Claude 3.7 Sonnet，无需翻墙）【5月持续更新】
 
-> **更新时间：2025/05/14**          
+> **更新时间：2025/05/15**          
 
 **全面体验 [Claude 中文版](https://chat.lanjing.pro/)，无需翻墙，支持 Claude 3.7 Sonnet 和多功能应用！**  
-本项目旨在为用户提供一站式的 **[Claude 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://chat.xsimple.top/)** 和 **官网使用教程**，帮助您快速上手 Claude~
+本项目旨在为用户提供一站式的 **[Claude 中文版](https://chat.lanjing.pro/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://xsimplechat.com/)** 和 **官网使用教程**，帮助您快速上手 Claude~
 
-**Claude 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**   
+**Claude 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
 **Claude 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
@@ -37,7 +37,7 @@
 
 | 镜像站名称       | 地址                                       | 支持版本         | 免费额度 | 注册方式   | 稳定性 | 功能亮点 |
 |------------------|--------------------------------|-------------|---------|---------|-----|------|
-| **一下 AI**     | [https://chat.yixiaai.com/](https://chat.yixiaai.com/) | Claude 3.7，GPT-4o，Gemini | 有       | 扫码登录使用 | 高   | 中文支持，Claude 3.7，MJ绘图 |
+| **一下 AI**     | [https://chat.yixiaai.com/](https://xsimplechat.com/) | Claude 3.7，GPT-4o，Gemini | 有       | 扫码登录使用 | 高   | 中文支持，Claude 3.7，MJ绘图 |
 | **蓝鲸 AI**     | [https://chat.lanjing.pro](https://chat.lanjing.pro) | Claude 3.7     | 有       | 国内邮箱注册 | 高   | Claude 3.7，GPT-4o，实时语音对话 |
 
 ---
